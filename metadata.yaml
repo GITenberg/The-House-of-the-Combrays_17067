@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '7117'
     url: http://www.gutenberg.org/2009/agents/7117
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17067#The-House-of-the-Combrays
 gutenberg_issued: '2005-11-15'
 gutenberg_type: Text
 identifiers:
